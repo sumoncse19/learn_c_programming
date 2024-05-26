@@ -21,3 +21,5 @@ Introduction to C Programming
 আজকের কিছু প্র‍্যাক্টিস প্রবলেম (অপশনাল)-
 
 https://docs.google.com/document/d/1rUfHiFWn2MrPrzG4pOuwmjtJZ1dllCs-FKT-Zf5IuEc/edit?usp=sharing
+
+Quiz Solution: https://docs.google.com/document/d/1Ify-XEX9TEmrdYqCT--jWbeknkrJBNMGna6aveESJDE/edit?usp=sharing
